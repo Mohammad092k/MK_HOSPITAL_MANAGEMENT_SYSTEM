@@ -1,4 +1,4 @@
-## 🌟🌟🌟 Hospital Management System 🌟🌟🌟
+# 🌟🌟🌟 Hospital Management System 🌟🌟🌟
 
 This project is a Hospital Management System designed to streamline hospital operations with separate login pages for both patients and admins. The system features patient registration, appointment scheduling, messaging, and adding new doctors and admins with secure user authentication and authorization.
 
